@@ -6,4 +6,4 @@ Refer Repository for Spliting and Captions for Training images.
 
 Referred Corpus: https://www.kaggle.com/watts2/glove6b50dtxt
 
-Refered Image Dataset: https://www.kaggle.com/hsankesara/flickr-image-dataset
+Referred Image Dataset: https://www.kaggle.com/hsankesara/flickr-image-dataset
